@@ -2,4 +2,4 @@
 
 PLEASE REFER TO "OOP TFB1033 Project Proposal.pdf" FOR PROJECT DESCRIPTION AND GROUP INFO
 
-Please download "OOP_UTPMobile.zip" for full project
+PLEASE DOWNLOAD "OOP_UTPMobile.zip" FOR FULL PROJECT
